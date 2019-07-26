@@ -1,0 +1,5 @@
+;This File contains arguments for establishing the communication with the server
+;SERVERADDRESS=127.0.0.1
+SERVERADDRESS=10.82.44.86
+SOCKETNUMBER=8080
+REQUESTTIMEOUT=30
